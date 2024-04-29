@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+}
+
+body .figure {
+  max-width: 450px;
+}
+body .figure .image {
+  width: 100%;
+  height: 450px;
+}
+
+/*# sourceMappingURL=style.css.map */
